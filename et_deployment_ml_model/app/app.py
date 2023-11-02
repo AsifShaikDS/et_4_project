@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # Load the trained models
 models = {
-    "Decision Tree": joblib.load("trained_models/DecisionTree_model.joblib"),
+    # "Decision Tree": joblib.load("trained_models/DecisionTree_model.joblib"),
     "Random Forest": joblib.load("trained_models/RandomForest_model.joblib"),
     "Logistic Regression": joblib.load("trained_models/LogisticRegression_model.joblib"),
     # "SVC": joblib.load("trained_models/SVC_model.joblib")
