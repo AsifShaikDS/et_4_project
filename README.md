@@ -1,8 +1,12 @@
 # Credit Card Fraud Detection 
 
-Team : Jagriti and me
+
+
+Requirements: You should have Docker pre installed before we run the following comands.
+`https://docs.docker.com/desktop/install/windows-install/`
 
 Steps to run the code :
+
 ```
 - git clone https://github.com/AsifShaikDS/et_4_project.git
 - cd et_deployment_ml_model
