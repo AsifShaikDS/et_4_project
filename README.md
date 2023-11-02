@@ -4,6 +4,7 @@ Team : Jagriti and me
 
 Steps to run the code :
 ```
+- git clone https://github.com/AsifShaikDS/et_4_project.git
 - cd et_deployment_ml_model
 - docker build -t image_name . 
 - docker run -p 4000:80 image_name 
